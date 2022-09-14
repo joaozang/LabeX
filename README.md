@@ -1,6 +1,5 @@
 ![labexlogout2](https://user-images.githubusercontent.com/99629048/179437664-b9b32114-6a4d-4252-94f9-09df71960aef.png)
 ### **LabeX**
-Projeto feito utilizando React JS, com intuito de aprender Hooks, Custom Hooks, React Router e Form.
 
 ### **O que funciona**
 
